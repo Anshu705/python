@@ -69,7 +69,7 @@ print("HELLO 'MANAN'")  # using double quote to print single quote
 # file we can write str and in stdout we can write variable & sys need to import a library for support the code
 # flush is use to collect the all data and print.
 # so, this explain how our print function is work. or  we  can say behind the scenes of print function.
-# As, you observe that we can manipulate the parameters of print function in python to get the desired output. 
+# As, you observe that we can manipulate the parameters of print function in Python to get the desired output. 
 # We can use different values for the parameters to change the behavior of the print function.
 # Library are the pre-written code by python, we just need to import them only.
 """
@@ -84,8 +84,8 @@ print("Myntra is the best online shopping platform in India.", str3, sep=' ', en
 
 # STRING IN PYTHON
 """
-# string is continuous sequence of characters enclosed in single quotes, double quotes, or triple quotes.
-# A bit talk more about the string in python. String is a data type in python that is used to represent text. 
+# A string is continuous sequence of characters enclosed in single quotes, double quotes, or triple quotes.
+# A bit talk more about the string in python. String is a data type in Python that is used to represent text. 
 # It is a sequence of characters, which can include letters, numbers, symbols, and whitespace.
 # In python, strings are enclosed in either single quotes (' ') or double quotes (" "). For example, 'Hello' and "Hello" are,
 # both valid strings in python.
