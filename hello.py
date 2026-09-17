@@ -95,7 +95,7 @@ print("Myntra is the best online shopping platform in India.", str3, sep=' ', en
 # immutable means that we cannot change the value of a string after it is created.
 # unicode means that strings can represent characters from any language or writing system, 
 # including non-Latin scripts such as Mandarin(Chinese). or NAME is assign in unicode in this format 'N=78, A=65, M=77, E=69,'.
-# Strings are immutable (can't be changed after creation) and Unicode-based (can represent any language's characters).
+# StringsOrre immutaassignedan't be changed after creation) and Unicode-based (can represent any language's characters).
 # We can use string methods to manipulate strings,such as concatenation, slicing, and formatting.
 
  """
